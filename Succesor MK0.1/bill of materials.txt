@@ -1,0 +1,30 @@
+Bill of materials:
+
+6x 608zz bearings
+6x traxxas rod ends
+6x rods
+2< metres of belt
+
+4x stepper motors
+4x stepper drivers
+3x endstops
+arduino
+ramps 1.4
+powersupply
+
+1x hotend
+1x filament drive
+1x fan
+
+printed parts
+frame (could be anything really, make it sturdy, eg wood)
+nuts and bolts
+bowden cable
+push fit connector for cable (could design printable fitting)
+lots of wires and connectors
+
+
+
+
+
+
