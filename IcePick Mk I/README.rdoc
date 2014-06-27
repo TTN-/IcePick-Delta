@@ -1,6 +1,7 @@
 TODO:
 
 CAD:
+
 lower bearing brackets DONE
 
 upper motor mount for motors DONE
