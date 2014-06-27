@@ -1,3 +1,0 @@
-for a ratio of 1:30 on the main pulley, a 30 and 150 tooth pulley can be used with in combination with a 16 and 96 tooth pulley on another axle, where the 16 tooth pulley is on the stepper motor, the 96tooth pulley is attached to the 30tooth pulley, the stepper motor 16tooth is on the 96tooth and the 30tooth pulley is on the main pulley.
-
-All belts will be gt2 as they are common and have a nice tooth spacing of 2mm.
