@@ -1,8 +1,8 @@
 Bill of materials:
 
 6x 608zz bearings
-6x traxxas rod ends
-6x rods
+6x traxxas rod ends   printable alternatives will be researched
+6x rods               wood, carbon, aluminium, doesn't matter.    
 2< metres of belt
 
 4x stepper motors
@@ -16,12 +16,12 @@ powersupply
 1x filament drive
 1x fan
 
-printed parts
-frame (could be anything really, make it sturdy, eg wood)
-nuts and bolts
-bowden cable
-push fit connector for cable (could design printable fitting)
-lots of wires and connectors
+1x set of printed parts
+1x frame (could be anything really, make it sturdy, eg wood)
+1x set of nuts and bolts
+1x bowden cable
+2x push fit connector for bowden cable (could design printable fitting)
+?x lots of wires and connectors
 
 
 

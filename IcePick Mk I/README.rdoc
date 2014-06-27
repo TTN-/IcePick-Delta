@@ -3,17 +3,18 @@ TODO:
 CAD:
 lower bearing brackets DONE
 
-upper motor mount for 200 step motors
+upper motor mount for motors DONE
 
-upper motor mount for 400 step motors DONE
+spacers in between motor mounts
 
-lower large pulley
+large pulley
 
-upper arms, the 'fingers'
+upper arms, the 'fingers' (150mm long)
 
-end effector (borrow the one for the kossel mini)
+end effector (something like the kossel mini effector with the bed leveling probe)
 
-somewhere endstop switches will need to be integrated for homing. later.
+endstop switch mounts
+
 
 SOFTWARE:
 make a post processing script for all gcodes, could be done in python, or a cura plugin
