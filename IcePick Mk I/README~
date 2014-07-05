@@ -2,8 +2,7 @@ More details at: http://hackaday.io/project/1565-IcePick-MK-I
 
 TODO:
 
-Make cad parts:
-
+cad up parts:
 lower bearing brackets DONE
 
 upper motor mount for motors DONE
@@ -18,12 +17,14 @@ end effector IN PROGRESS
 
 endstop switch mounts
 
-printable ball joints for arms PROTOTYPE DESIGNED, NEEDS PRINTING & TESTING
+printable ball joints for arms PROTOTYPE DESIGNED, NEEDS TESTING
 
-design a frame IN PROGRESS I have a few ideas, but I'm flexible.
+design a frame IN PROGRESS
 
 frame middle mounting plate IN PROGRESS
 
+
 SOFTWARE:
 implement inverse delta kinematics in marlin
-bed leveling. Seems that someone has already done it: https://groups.google.com/d/msg/deltabot/HpNGo5A8ccw/gNQ78o4S7FQJ
+bed leveling
+
