@@ -8,22 +8,21 @@ lower bearing brackets DONE
 
 upper motor mount for motors DONE
 
-spacers in between motor mounts DONE
-
 large pulley DONE
 
-upper arms DONE
+upper arms -- need some work
 
-end effector IN PROGRESS
+end effector -- made a start, needs work
 
-endstop switch mounts
+endstop switch mounts DONE -- has been integrated into the motor mount
 
-printable ball joints for arms PROTOTYPE DESIGNED, NEEDS PRINTING & TESTING
+printable ball joints for arms -- in proggress
 
-design a frame IN PROGRESS I have a few ideas, but I'm flexible.
+design a frame
 
 frame middle mounting plate IN PROGRESS
 
 SOFTWARE:
-implement inverse delta kinematics in marlin
-bed leveling. Seems that someone has already done it: https://groups.google.com/d/msg/deltabot/HpNGo5A8ccw/gNQ78o4S7FQJ
+implement inverse delta kinematics in marlin and bed leveling.
+Seems that someone has already done it: https://groups.google.com/d/msg/deltabot/HpNGo5A8ccw/gNQ78o4S7FQJ
+The folks building the firepick delta have reportedly got bed leveling to work and have the code on github: https://github.com/firepick-delta/Marlin
