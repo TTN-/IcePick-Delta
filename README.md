@@ -13,5 +13,5 @@ Credit goes to Matt Kimbal for pulley_mounts.stl
 Pulley_mount.stl and pulley_mount.FCStd are copyright of Matt Kimbal, released under gpl version 3.
 
 
-Credit goes to Johann Rochell for the effector.stl and effector_retractable.stl from his <a href="https://github.com/jcrocholl/kossel">Kossel repository.</a> effector.stl and retractable are copyright of Johann Rochell, released under gpl version 3.
+Credit goes to Johann Rochell for the effector.stl and effector_retractable.stl from his <a href="https://github.com/jcrocholl/kossel">Kossel repository.</a> effector.stl and retractable.stl are copyright of Johann Rochell, released under gpl version 3.
 
