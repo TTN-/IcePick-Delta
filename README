@@ -1,12 +1,15 @@
-
-More details at: http://hackaday.io/project/1565
-
+IcePick Delta CAD files
+=======================
 Most of these parts are still being tested and revised, keep in mind they may be improved without prior notice ;)
 
+More details at the <a href="http://hackaday.io/project/1565">Icepick-delta HackaDay page.</a>
 
 
 
 
-Credit goes to Johann Rochell for the effector.stl and retractable.stl from his Kossel repository at https://github.com/jcrocholl/kossel
+Credits
+=======
+Credit goes to Matt Kimbal for the pulley_mounts.stl
 
-effector.stl and retractable are copyright of Johann Rochell, released under gpl version 3 .
+Credit goes to Johann Rochell for the effector.stl and effector_retractable.stl from his <a href="https://github.com/jcrocholl/kossel">Kossel repository.</a> effector.stl and retractable are copyright of Johann Rochell, released under gpl version 3.
+
