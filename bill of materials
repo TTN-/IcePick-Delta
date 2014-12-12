@@ -1,31 +1,32 @@
 Bill of materials:
 
 6x 608zz bearings
-6x traxxas rod ends   printable alternatives will be researched
-6x rods               wood, carbon, aluminium, doesn't matter.    
+12x traxxas rod ends   printable alternatives will be researched
+6x springs to keep rod ends tight
+4x springs for bed leveling (I'm using springs from old pens)
+6x rods (wood, carbon, aluminium, doesn't matter, just make it rigid)
 2< metres of GT2 belt
 
 4x stepper motors
 4x stepper drivers
 4x endstop switches
-1x arduino
-1x ramps 1.4
+1x electronics of your choice, I'm using ramps 1.4 + arduino
 1x powersupply
-3x 16tooth GT2 pulleys
+3x 16 tooth GT2 pulleys
 
 1x hotend
 1x filament drive
 1x fan
 1x printbed, (a sheet of glass is good)
 
-1x set of printed parts (under heavy development)
+1x set of printed parts (under development)
 1x frame (could be anything really, make it sturdy)
 ?x lots of nuts and bolts
-1x bowden cable length
-2x push fit connector for bowden cable (could design printable fitting)
+1x bowden cable length (about 500-600mm long)
+2x push fit connector for bowden cable (could design printable fitting?)
 ?x lots of wires and connectors
 
-999x Lots and lots of time and patience
+1x Lots of time and lots and lots of patience
 
 
 
