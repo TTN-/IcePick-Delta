@@ -6,7 +6,7 @@ More details at the <a href="http://hackaday.io/project/1565">Icepick-delta Hack
 
 Firmware
 ========
-Firmware for the Icepick-Delta can be found <a href="https://github.com/Laura3/Marlin/tree/Marlin_v1">Icepick-delta here.</a>
+Firmware for the Icepick-Delta can be found <a href="https://github.com/Laura3/Marlin/tree/Marlin_v1"> here.</a>
 
 
 Contributors
