@@ -15,6 +15,8 @@ Bill of materials:
 3x 16 tooth GT2 pulleys
 
 1x hotend
+1x fan for hotend
+1x fan for cooling stepper drivers
 1x filament drive
 1x fan
 1x printbed, (a sheet of glass is good)
@@ -24,7 +26,12 @@ Bill of materials:
 ?x lots of nuts and bolts
 1x bowden cable length (about 500-600mm long)
 2x push fit connector for bowden cable (could design printable fitting?)
-?x lots of wires and connectors
+?x lots of wires
+?x lots of connectors
+?x lots of cable ties
+
+more bits if you want the bed leveling retractable probe (current software doesn't support it atm, is on todo list)
+
 
 1x Lots of time and lots and lots of patience
 
