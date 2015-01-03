@@ -13,6 +13,9 @@ Firmware for the Icepick-Delta can be found <a href="https://github.com/Laura3/M
 
 Contributors/Credits
 ============
+Lots of thanks goes to the Firepick Delta team, (<a href=http://hackaday.io/project/963> project page</a> ) for being the original inspiration to this project. Thank you Lerche, Neil Jansen, Karl Lew and last but not least daytonpid. Without you guys this project wouldn't have existed. :) 
+
+
 Credit goes to Matt Kimbal for pulley_mounts.stl
 Pulley_mount.stl and pulley_mount.FCStd are copyright of Matt Kimbal, released under gpl version 3.
 
