@@ -1,10 +1,11 @@
 IcePick Delta CAD files
 =======================
+I should state that this printer is NOT ready for general consumption and is HIGHLY experimental. 
+
 Most of these parts are still being tested and revised, they may be improved without prior notice ;)
 
 More details at the <a href="http://hackaday.io/project/1565">Icepick-delta HackaDay page.</a>
 
-It is recomended to use the half pulleys rather than the full round ones, as the half pulleys have a better belt tensioner, use less material, and are less likely to catch on the lower arms when moving into the homing position.
 
 Firmware
 ========
